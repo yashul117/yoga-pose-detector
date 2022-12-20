@@ -50,7 +50,22 @@ export const poseInstructions = {
     ]
     
 }
-
+export const poseLink = {
+    Tree: ['Dic293YNJI8'],
+    Cobra: ['jwoTJNgh8BY'],
+    Dog: ['EC7RGJ975iM'
+    ],
+    Chair: ['0FxWRAJht6k'
+    ],
+    Warrior: ['kkGY3xBnaGc'
+    ],
+    Traingle: [
+        'S6gB0QHbWFE'
+    ],
+    Shoulderstand: ['UjHTOW9x3WM'
+    ]
+    
+}
 
 export const tutorials = [
     '1. When App ask for permission of camera, allow it to access to capture pose.',

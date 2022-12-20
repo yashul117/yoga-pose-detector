@@ -8,7 +8,7 @@ import { count } from '../../utils/music';
 import Instructions from '../../components/Instrctions/Instructions';
 
 import './Yoga.css'
- 
+
 import DropDown from '../../components/DropDown/DropDown';
 import { poseImages } from '../../utils/pose_images';
 import { POINTS, keypointConnections } from '../../utils/data';
@@ -18,6 +18,10 @@ import { drawPoint, drawSegment } from '../../utils/helper'
 
 let skeletonColor = 'rgb(226,110,110)'
 let poseList = [
+  'Tree', 'Chair', 'Cobra', 'Warrior', 'Dog',
+  'Shoulderstand', 'Traingle'
+]
+let vidId = [
   'Tree', 'Chair', 'Cobra', 'Warrior', 'Dog',
   'Shoulderstand', 'Traingle'
 ]

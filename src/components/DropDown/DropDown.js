@@ -4,6 +4,7 @@ import { poseImages } from '../../utils/pose_images'
 
 import './DropDown.css'
 
+
 export default function DropDown({ poseList, currentPose, setCurrentPose }) {
 return (
         <div
@@ -27,7 +28,6 @@ return (
                             src={poseImages[pose]}
                             className="dropdown-img"
                         />
-                        
                     </div>
                 </li>
             ))}
@@ -38,4 +38,5 @@ return (
       </div>
     )
 }
+ 
  

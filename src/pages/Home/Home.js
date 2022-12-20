@@ -39,8 +39,6 @@ export default function Home() {
                 <div className="btn-section">
                 <div className="para-class">
                 
-                    <p>Welcome</p>
-                    <p>Make Your Life style healthy.</p>
         </div>
                 </div>
             </div>

@@ -1,6 +1,6 @@
 
 .home-header {
-    background: linear-gradient(100deg,#d900ff, #FFA500);
+    background: linear-gradient(100deg,#cb83d7, #00c3ff);
     width: 100vw;
     height: 70px;
     display: flex;
@@ -40,7 +40,7 @@
     margin-top: -50px;
     width: 100vw;
     height: 100vh;    
-    background: linear-gradient(rgba(0,0,0,0.2), rgba(0, 0, 0, 0.8)), url('../../utils/images/yoga_pose.png') ;
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0, 0, 0, 0.1)), url('../../utils/images/yoga_pose.jpg') ;
     background-repeat: no-repeat;
     background-position: center;
     background-size:  750px;
